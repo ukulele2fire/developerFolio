@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "NATHAN NGUYEN",
-  title: "Hi all, I'm Nathan",
+  title: "Hi, I'm Nathan",
   subTitle: emoji(
     "An aspiring Back-End Developer experienced in building Windows applications and recreations of games using Java, C# and C++."
   ),
@@ -108,7 +108,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
